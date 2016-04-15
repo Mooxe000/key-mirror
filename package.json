@@ -1,0 +1,23 @@
+{
+  "name": "key-mirror",
+  "version": "0.0.0",
+  "description": "key-mirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "key mirror"
+  ],
+  "author": "FooTearth <footearth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "lodash.isarray": "^4.0.0",
+    "lodash.isstring": "^4.0.1"
+  },
+  "devDependencies": {
+    "ddeyes": "^0.0.1",
+    "shelljs": "^0.6.0"
+  }
+}
